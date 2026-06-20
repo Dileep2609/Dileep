@@ -1,62 +1,65 @@
-# Hi 👋, I'm Dileep Guguloth
+<div align="center">
 
-<h3 align="center">🚀 Full Stack Developer | Machine Learning Enthusiast | Problem Solver</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=220&section=header&text=Dileep%20Guguloth&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Machine%20Learning%20Enthusiast%20|%20Problem%20Solver&descAlignY=60&descSize=18"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;300%2B+DSA+Problems+Solved;Building+Real-World+Projects" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&height=80&lines=👋+Welcome+to+my+GitHub+Profile!;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🚀+300%2B+DSA+Problems+Solved;🌟+Building+Real-World+Projects)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Dileep2609&label=Profile+Views&color=2563eb&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🌟 About Me
+# 🌟 About Me
 
-```java
-class Dileep {
-    public static void main(String[] args) {
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-        String name = "Dileep Guguloth";
-        String role = "Computer Science Student";
-        String university = "JNTUH";
-        double cgpa = 8.6;
+```python
+class Dileep:
+    def __init__(self):
+        self.name = "Dileep Guguloth"
+        self.role = "Computer Science Student"
+        self.location = "India 🇮🇳"
 
-        String[] languages = {
-            "Java", "Python", "JavaScript", "C++"
-        };
+        self.languages = [
+            "Java",
+            "Python",
+            "JavaScript",
+            "C++"
+        ]
 
-        String[] interests = {
+        self.interests = [
             "Full Stack Development",
             "Machine Learning",
-            "Problem Solving",
-            "Artificial Intelligence"
-        };
+            "Data Structures & Algorithms",
+            "Generative AI"
+        ]
 
-        String currentGoal =
-            "Become a Software Engineer and build impactful solutions";
-    }
-}
+        self.currently = "Building scalable web applications 🚀"
+
+    def goal(self):
+        return "Become a Software Engineer and build impactful products"
 ```
 
 🎓 B.Tech CSE Student at JNTUH
 
-💻 Solved 300+ DSA Problems on LeetCode & GeeksforGeeks
+💻 Solved 300+ DSA Problems
 
-🌱 Currently learning Advanced Full Stack Development & AI
+🌱 Learning Full Stack Development & AI
 
-🚀 Passionate about building scalable web applications
+🚀 Passionate about Software Engineering
 
-🤖 Interested in Machine Learning and Generative AI
+🤖 Interested in Machine Learning & Generative AI
 
-💡 Learning by building real-world projects
+💡 Love building real-world projects
 
-📫 Reach me: **dileepguguloth26@gmail.com**
+📫 Email: **dileepguguloth26@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -90,33 +93,17 @@ class Dileep {
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🚑 Emergency Service Provider System
-
-- Real-time ambulance booking platform
-- Google Maps API integration
-- Live ambulance tracking
-- Nearest ambulance allocation
-- Django + MySQL + Firebase
-
-### 🍔 FoodAI – AI-Powered Smart Food Ordering System
-
-- AI-powered food recommendation system
-- Smart checkout functionality
-- Dynamic cart management
-- React.js + Node.js + Express.js + Groq AI
-
-### 🌾 Crop Recommendation System
-
-- Machine Learning based crop prediction
-- Soil and environmental analysis
-- Flask Web Application
-- Scikit-Learn + Pandas + NumPy
+| 🚀 Project | 📝 Description | 🔧 Tech Stack |
+|------------|----------------|---------------|
+| 🚑 Emergency Service Provider System | Ambulance booking and real-time tracking platform with Google Maps integration | Django, MySQL, Firebase, Google Maps API |
+| 🍔 FoodAI | AI-powered food ordering and recommendation platform with smart checkout | React.js, Node.js, Express.js, Groq AI |
+| 🌾 Crop Recommendation System | Machine learning-based crop recommendation using soil and environmental parameters | Flask, Scikit-Learn, Pandas, NumPy |
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 ✅ Trust & Security with Google Cloud
 
@@ -130,7 +117,7 @@ class Dileep {
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🏅 Solved 300+ DSA Problems
 
@@ -142,57 +129,78 @@ class Dileep {
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dileep2609&show_icons=true&theme=tokyonight"/>
 
----
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dileep2609&theme=tokyonight"/>
 
-## 🏆 GitHub Trophies
+<br><br>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
-</p>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2609&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dileep2609&theme=tokyonight&row=1&column=7"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 💬 Developer Quote
 
-<p align="center">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dileep2609&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dileep-guguloth-b04416300">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dileepguguloth26@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/Dileep2609">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-<h3 align="center">
-✨ Always open to collaborations, internships, and exciting opportunities!
-</h3>
+<div align="center">
 
-<h3 align="center">
+✨ Always open to internships, collaborations, and exciting opportunities!
+
 ⭐ If you find my work interesting, consider giving a star to my repositories!
-</h3>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=120&section=footer"/>
